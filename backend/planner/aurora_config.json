@@ -1,0 +1,6 @@
+{
+  "cluster_arn": "arn:aws:rds:ca-central-1:502424146170:cluster:advisor-aurora-cluster",
+  "secret_arn": "arn:aws:secretsmanager:ca-central-1:502424146170:secret:advisor-aurora-credentials-415844fc-GrByYS",
+  "database": "advisor",
+  "region": "ca-central-1"
+}
