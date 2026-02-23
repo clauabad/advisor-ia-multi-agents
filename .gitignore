@@ -8,6 +8,16 @@
 # zip
 *.zip
 
+# Node
+node_modules/
+
+# Build outputs
+out/
+dist/
+
+# Caches
+**/.cache/
+
 # terraform
 **/.terraform/*
 *.tfstate
@@ -129,3 +139,7 @@ ipython_config.py
 **/.terraform/
 *.tfstate
 *.tfstate.*
+
+# Next.js
+.next/
+frontend/.next/
